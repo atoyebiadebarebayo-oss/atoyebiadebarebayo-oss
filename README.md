@@ -1,16 +1,41 @@
-## Hi there 👋
+ Hi, I'm Bayo 👋
 
-<!--
-**atoyebiadebarebayo-oss/atoyebiadebarebayo-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Web Developer
 
-Here are some ideas to get you started:
+I build clean, responsive, and user-friendly websites for small businesses and individuals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Skills
+
+- HTML5
+- CSS3
+- Responsive Web Design
+- Git & GitHub
+- Netlify Deployment
+- Formspree Forms
+- WhatsApp Integration
+
+ 🚀 Featured Projects
+
+ 🧹 Bayo's Cleaning Services
+
+A responsive business website for a professional cleaning service.
+
+**Built with:** HTML5, CSS3
+
+🌐 [Live Website](https://bayos-cleaning-services.netlify.app/)
+
+🐙 [View Repository](https://github.com/atoyebiadebarebayo-oss/bayos-cleaning-services)
+
+ 📚 Currently Learning
+
+- JavaScript
+- Modern Web Development
+- Building professional websites for businesses
+
+ 🎯 My Goal
+
+To become a professional web developer and help businesses establish a strong presence online.
+
+ 📫 Contact
+
+I'm available for freelance web development projects.
