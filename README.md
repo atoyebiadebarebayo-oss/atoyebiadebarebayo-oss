@@ -1,182 +1,39 @@
-# Hi, I'm Bayo 👋
+# Hi, I'm Adebayor Bayo 👋
 
-## Web Developer | JavaScript | REST APIs | Responsive Web Applications
+### Full-Stack Web Developer & Micro-SaaS Creator
+I build high-performance web applications, database integrations, client tools, and automated business engines.
 
-I build practical, responsive, and user-friendly websites and web applications designed around real-world business and user needs.
-
-My projects range from professional business websites to API-driven applications, e-commerce platforms, dashboards, and full web applications.
-
----
-
-## 🚀 What I Build
-
-- 🌐 Responsive Business Websites
-- ⚡ JavaScript Web Applications
-- 🔌 REST API Integrations
-- 🛒 E-Commerce Applications
-- 📊 Interactive Dashboards
-- 📱 Mobile-Responsive Interfaces
-- 🔐 Application Authentication & User Flows
-- 💾 Browser Data Persistence
-- 🚀 Production Website Deployment
+🌐 **Portfolio:** [devpulse-adebare.netlify.app](https://devpulse-adebare.netlify.app)  
+💬 **WhatsApp:** [+234 704 041 6469](https://wa.me/2347040416469)  
+✉️ **Email:** atoyebiadebarebayo@gmail.com
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 Featured Web Platforms & Micro-SaaS Suite
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Responsive Web Design
-- DOM Manipulation
-
-### APIs & Web Applications
-- REST APIs
-- Third-Party API Integration
-- Browser Geolocation
-- LocalStorage
-- Dynamic Search & Filtering
-- Interactive User Interfaces
-
-### Development & Deployment
-- Git
-- GitHub
-- Netlify
-- Formspree
-
-### Programming
-- Python
+| Application | Core Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **DevPulse** | Central Developer Portfolio Platform | HTML5, CSS Grid, ES6+ | [Live Demo](https://devpulse-adebare.netlify.app) • [Code](https://github.com/atoyebiadebarebayo-oss/DevPulse) |
+| **ReservePulse** | Booking Engine & Capacity Manager | JavaScript, WhatsApp API | [Live Demo](https://reservepulse.netlify.app) • [Code](https://github.com/atoyebiadebarebayo-oss/ReservePulse) |
+| **MenuPulse** | QR Digital Menu & WhatsApp Ordering | LocalStorage, CSS Variables | [Live Demo](https://menupulse.netlify.app) • [Code](https://github.com/atoyebiadebarebayo-oss/MenuPulse) |
+| **ClientPulse** | Drag-and-Drop Micro-CRM Pipeline | HTML5 Drag & Drop API | [Live Demo](https://clientpulse.netlify.app) • [Code](https://github.com/atoyebiadebarebayo-oss/ClientPulse) |
+| **PromptPulse** | AI Prompt Workflow & Template Engine | ES6+, Web Storage | [Live Demo](https://promptpulse.netlify.app) • [Code](https://github.com/atoyebiadebarebayo-oss/PromptPulse) |
+| **InvoicePulse** | PDF Receipt Generator & Supabase Backend | Supabase, HTML2PDF, Chart.js | [Live Demo](https://invoicepulse.netlify.app) • [Code](https://github.com/atoyebiadebarebayo-oss/InvoicePulse) |
+| **LeadPulse** | Agency Landing Page & Quote Engine | Interactive JS Calculators | [Live Demo](https://leadpulse.netlify.app) • [Code](https://github.com/atoyebiadebarebayo-oss/LeadPulse) |
 
 ---
 
-# ⭐ Featured Projects
+## 🛠️ Technologies & Core Stack
 
-## 🧾 InvoicePlu
-
-### Invoice Management Web Application
-
-A professional web application built around invoice management and business workflows.
-
-🌐 **Live Application:** https://invoiceplu.netlify.app/
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, Python, SQL
+- **Database & Services:** Supabase, REST APIs, Web Storage API
+- **Tools & Utilities:** Git, GitHub, HTML2PDF, Chart.js, FontAwesome, Netlify
 
 ---
 
-## ₿ Crypto Pulse Tracker
+## 📊 Core Engineering Strengths
 
-### Real-Time Cryptocurrency Market Dashboard
-
-A responsive cryptocurrency dashboard displaying live market information, cryptocurrency prices, market statistics, searchable assets, and portfolio holdings.
-
-**Built with:** HTML5, CSS3, JavaScript, REST API, Live Market Data, Portfolio Tracking
-
-🌐 **Live Application:** https://crypto-pulse-trackers.netlify.app/
-
----
-
-## 🛒 Bayo Store | E-Commerce Hub
-
-### API-Driven Online Storefront & Cart
-
-A responsive e-commerce web application featuring live product catalogs, category filtering, instant search, shopping cart functionality, quantity management, real-time subtotal calculations, and persistent cart state.
-
-**Built with:** HTML5, CSS3, JavaScript, REST API, LocalStorage
-
-🌐 **Live Application:** https://bayo-store.netlify.app/
-
-🐙 **Repository:** https://github.com/atoyebiadebarebayo-oss/ecommerce-store
-
----
-
-## 🌦️ Weather & Recipe Hub
-
-### API-Driven Interactive Web Application
-
-An interactive web application that combines local weather information with recipe discovery to provide weather-aware meal suggestions.
-
-Features include browser geolocation, live weather data, recipe search, popup interfaces, and persistent bookmarks.
-
-**Built with:** HTML5, CSS3, JavaScript, REST APIs, LocalStorage
-
-🌐 **Live Application:** https://weather-recipe-hub.netlify.app/
-
-🐙 **Repository:** https://github.com/atoyebiadebarebayo-oss/weather-recipe-hub
-
----
-
-## 🍽️ Bayo's Kitchen
-
-### Responsive Restaurant Website
-
-A professional restaurant website designed to showcase a food business, display its menu, connect with customers, and support direct online ordering.
-
-Features include responsive design, food menus, contact forms, Formspree integration, and WhatsApp ordering.
-
-**Built with:** HTML5, CSS3, Responsive Design, Formspree, WhatsApp Integration
-
-🌐 **Live Website:** https://bayos-kitchen.netlify.app/
-
-🐙 **Repository:** https://github.com/atoyebiadebarebayo-oss/bayos-kitchen
-
----
-
-## 🧹 Bayo's Cleaning Services
-
-### Professional Business Website
-
-A responsive business website created for a professional cleaning service.
-
-The website focuses on clear service presentation, customer communication, WhatsApp integration, and mobile-friendly design.
-
-**Built with:** HTML5, CSS3, Responsive Design, WhatsApp Integration
-
-🌐 **Live Website:** https://bayos-cleaning-services.netlify.app/
-
-🐙 **Repository:** https://github.com/atoyebiadebarebayo-oss/bayos-cleaning-services
-
----
-
-# 💼 What I Can Build
-
-I help businesses and individuals create practical digital solutions, including:
-
-- Business websites
-- Restaurant websites
-- Service business websites
-- E-commerce websites
-- API-driven web applications
-- Interactive dashboards
-- Responsive web interfaces
-- Contact and lead-generation systems
-- Website deployment and maintenance
-
----
-
-# 📈 Currently Building
-
-I'm continuously improving my development skills by building real-world applications and exploring modern web technologies, APIs, application architecture, and backend systems.
-
----
-
-# 📫 Let's Connect
-
-📧 **Email:** atoyebiadebarebayo@gmail.com
-
-💬 **WhatsApp:** https://wa.me/2347040416469
-
-🌐 **Portfolio:** https://gleaming-dodol-ca2feb.netlify.app/
-
-🐙 **GitHub:** https://github.com/atoyebiadebarebayo-oss
-
----
-
-## ⚡ Developer Philosophy
-
-> Build practical solutions.  
-> Keep the experience simple.  
-> Learn by building.  
-> Improve with every project.
-
----
-
-**© 2026 Bayo Atoyebi**
+- 📱 Responsive UI/UX across all mobile and desktop viewports
+- 💾 Persistent client data handling and database connectivity
+- ⚡ Fast, lightweight vanilla JavaScript engines without extra bloat
+- 📩 Integrated business automation via WhatsApp routing and PDF exports
